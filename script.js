@@ -16,8 +16,9 @@ async function sendMessage() {
                 headers: {
                     "Content-Type": "application/json",
 
-                    "Authorization":
-                    "Bearer test"
+                    headers: {
+  "Content-Type": "application/json"
+},
                 },
 
                 body: JSON.stringify({
