@@ -8,7 +8,7 @@ async function sendMessage() {
         "KI denkt...";
 
         let response = await fetch(
-            "https://api.groq.com/openai/v1/chat/completions",
+            "/api/chat",
 
             {
                 method: "POST",
