@@ -30,7 +30,7 @@ async function sendMessage() {
                         {
                             role: "system",
                             content:
-                            "Du bist ein freundlicher Support-Mitarbeiter von 23.athletics der sich kurz hält und immer in maximal 3 Sätzen antwortet."
+                            "Du bist ein freundlicher Support-Mitarbeiter von 23.athletics der sich kurz hält und immer in maximal 3 Sätzen antwortet udn bei Preisfragen auf das kontaktformular verweist"
                         },
 
                         {
